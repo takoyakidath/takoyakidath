@@ -3,7 +3,7 @@
 **Location:** Japan
 
 **Social Media:**
-- **Linktree:** [https://linktr.ee/takoyakidath](https://linktr.ee/takoyakidath)
+- **Website:** [https://octo.jp](https://octo.jp)
 - **X (formerly Twitter):** [@takoyakidath](https://x.com/takoyakidath)
 
 **Repositories:**
